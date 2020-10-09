@@ -1,2 +1,3 @@
-# estudo_git
- repositorio curso Git e GitHub
+# Estudo Git GitHub
+ Repositório curso Guanabara Git e GitHub
+
